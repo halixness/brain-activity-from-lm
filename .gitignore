@@ -1,6 +1,1 @@
-binder_semantic_features
-mitchell
-data/cognival/eeg
-data/cognival/eye-tracking
-data/cognival/alice
-data/cognival/pereira
+data/*
